@@ -2,7 +2,7 @@
   "version": 1,
   "login": "rizqingmy",
   "seed": "#A259FF",
-  "seedFromAvatar": true,
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
@@ -15,7 +15,9 @@
     "streak",
     "buttons"
   ],
-  "hidden": [],
+  "hidden": [
+    "socials"
+  ],
   "hero": {
     "greeting": "Hi, I'm",
     "name": "Rizqing <3",
@@ -29,7 +31,7 @@
       },
       {
         "icon": "brand:android",
-        "label": "Android / ColorOS"
+        "label": "ColorOS"
       },
       {
         "icon": "brand:c",
@@ -41,74 +43,117 @@
     "title": "About me",
     "items": [
       {
-        "icon": "brand:android",
-        "text": "Deep into OnePlus 9 Pro (lemonadep) kernel tuning & ColorOS 17 porting."
+        "icon": "smartphone",
+        "label": "OnePlus 9 Pro (lemonadep) kernel tuning & ColorOS 17 porting."
       },
       {
-        "icon": "brand:githubactions",
-        "text": "Automating cloud kernel builds with SukiSU Nova & SUSFS."
+        "icon": "terminal",
+        "label": "Automating cloud kernel builds with SukiSU Nova & SUSFS."
       },
       {
-        "icon": "heart",
-        "text": "Always guarded and accompanied by Keqing (っ´ω`c)♡"
+        "icon": "favorite",
+        "label": "Guarded with eternal love by Keqing (っ´ω`c)♡"
       }
     ]
   },
   "stack": {
-    "title": "Tech Stack",
+    "title": "Tech stack",
     "groups": [
       {
-        "label": "Kernel & System",
+        "title": "Kernel & System",
         "items": [
-          "brand:linux",
-          "brand:android",
-          "brand:c",
-          "brand:cplusplus"
+          {
+            "icon": "brand:linux",
+            "label": "Linux Kernel"
+          },
+          {
+            "icon": "brand:android",
+            "label": "Android"
+          },
+          {
+            "icon": "brand:c",
+            "label": "C / eBPF"
+          }
         ]
       },
       {
-        "label": "Tools & Workflow",
+        "title": "Tools & CI",
         "items": [
-          "brand:git",
-          "brand:github",
-          "brand:githubactions",
-          "brand:bash"
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:gnubash",
+            "label": "Bash"
+          }
         ]
       }
     ]
   },
   "projects": {
-    "title": "Featured Projects",
-    "items": [
-      {
-        "repo": "rizqingmy/rizqing-kernel-lemonadep-bpf",
-        "desc": "OnePlus 9 Pro SM8350 Kernel with 5.10 BPF & SukiSU Nova / SUSFS",
-        "icon": "brand:linux"
-      },
-      {
-        "repo": "rizqingmy/coloros_port",
-        "desc": "OnePlus 8/9 Series ColorOS/OxygenOS Porting Project",
-        "icon": "brand:android"
-      }
-    ]
+    "source": "custom",
+    "repos": [
+      "rizqing-kernel-lemonadep-bpf",
+      "coloros_port"
+    ],
+    "overrides": {},
+    "empty": "Custom kernel & ROM development.",
+    "fork": "Fork"
   },
   "stats": {
-    "title": "GitHub Activity"
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
   },
   "streak": {
-    "title": "Streak"
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/metawka"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://www.tiktok.com/@metawka_"
+      },
+      {
+        "icon": "brand:steam",
+        "url": "https://steamcommunity.com/id/metawq/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
   },
   "buttons": {
     "items": [
       {
+        "icon": "brand:github",
         "label": "Kernel Builder",
         "url": "https://github.com/rizqingmy/rizqing-kernel-lemonadep-bpf",
-        "icon": "brand:github"
+        "style": "filled"
       },
       {
-        "label": "ColorOS Port",
-        "url": "https://github.com/rizqingmy/coloros_port",
-        "icon": "brand:android"
+        "icon": "folder",
+        "label": "All Repositories",
+        "url": "https://github.com/rizqingmy?tab=repositories",
+        "style": "tonal"
       }
     ]
   }
