@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "rizqingmy",
-  "seed": "#7E8AA2",
+  "seed": "#8A56AC",
   "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
@@ -21,7 +21,7 @@
   "hero": {
     "greeting": "Hey, I'm",
     "name": "Rizqing",
-    "subtitle": "Just an ordinary student exploring tech & tinkering in my free time.",
+    "subtitle": "Complete newbie with zero coding experience.\nEverything here is mostly built & guided with AI agents!",
     "typing": true,
     "avatarShape": "circle",
     "chips": [
@@ -30,8 +30,12 @@
         "label": "Student"
       },
       {
-        "icon": "code",
-        "label": "Beginner Tinkerer"
+        "icon": "smart_toy",
+        "label": "AI Guided"
+      },
+      {
+        "icon": "sentiment_satisfied",
+        "label": "Total Newbie"
       }
     ]
   },
@@ -39,16 +43,16 @@
     "title": "About me",
     "items": [
       {
-        "icon": "terminal",
-        "label": "Learning programming and Android stuff step by step."
+        "icon": "help",
+        "label": "No coding background — just curious and learning along the way."
       },
       {
-        "icon": "sports_esports",
-        "label": "Casual gamer & tech hobbyist."
+        "icon": "smart_toy",
+        "label": "Most repos and scripts are made with the help of AI agents."
       },
       {
         "icon": "favorite",
-        "label": "Always supported by Keqing (っ´ω`c)♡"
+        "label": "Faithfully guarded by Keqing (っ´ω`c)♡"
       }
     ]
   },
