@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "rizqingmy",
-  "seed": "#A259FF",
+  "seed": "#7E8AA2",
   "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
@@ -10,31 +10,28 @@
     "hero",
     "socials",
     "about",
-    "stack",
-    "projects",
     "stats",
-    "streak",
     "buttons"
   ],
-  "hidden": [],
+  "hidden": [
+    "stack",
+    "projects",
+    "streak"
+  ],
   "hero": {
-    "greeting": "Hi, I'm",
-    "name": "Rizqing <3",
-    "subtitle": "Android Kernel & ColorOS Enthusiast ⚡\nCrafting SM8350 kernels, BPF backports & custom ROM ports.",
+    "greeting": "Hey, I'm",
+    "name": "Rizqing",
+    "subtitle": "Just an ordinary student exploring tech & tinkering in my free time.",
     "typing": true,
-    "avatarShape": "cookie12",
+    "avatarShape": "circle",
     "chips": [
       {
-        "icon": "brand:linux",
-        "label": "Linux Kernel"
+        "icon": "school",
+        "label": "Student"
       },
       {
-        "icon": "brand:android",
-        "label": "ColorOS"
-      },
-      {
-        "icon": "brand:c",
-        "label": "C / eBPF"
+        "icon": "code",
+        "label": "Beginner Tinkerer"
       }
     ]
   },
@@ -42,16 +39,16 @@
     "title": "About me",
     "items": [
       {
-        "icon": "smartphone",
-        "label": "OnePlus 9 Pro (lemonadep) kernel tuning & ColorOS 17 porting."
+        "icon": "terminal",
+        "label": "Learning programming and Android stuff step by step."
       },
       {
-        "icon": "terminal",
-        "label": "Automating cloud kernel builds with SukiSU Nova & SUSFS."
+        "icon": "sports_esports",
+        "label": "Casual gamer & tech hobbyist."
       },
       {
         "icon": "favorite",
-        "label": "Guarded with eternal love by Keqing (っ´ω`c)♡"
+        "label": "Always supported by Keqing (っ´ω`c)♡"
       }
     ]
   },
@@ -139,16 +136,10 @@
   "buttons": {
     "items": [
       {
-        "icon": "brand:github",
-        "label": "Kernel Builder",
-        "url": "https://github.com/rizqingmy/rizqing-kernel-lemonadep-bpf",
-        "style": "filled"
-      },
-      {
         "icon": "folder",
-        "label": "All Repositories",
+        "label": "My Repositories",
         "url": "https://github.com/rizqingmy?tab=repositories",
-        "style": "tonal"
+        "style": "filled"
       }
     ]
   }
