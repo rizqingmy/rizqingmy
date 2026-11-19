@@ -1,8 +1,8 @@
 {
- "key": "d1a9d69e",
+ "key": "cafe6fe0",
  "stars": 1,
- "contributions": 74,
- "repos": 8,
+ "contributions": 45,
+ "repos": 7,
  "followers": 2,
  "languages": [
   [
@@ -102,12 +102,12 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 1,
     "day": 18,
     "today": false
    },
    {
-    "c": 38,
+    "c": 10,
     "day": 19,
     "today": true
    },
@@ -134,15 +134,6 @@
    "name": "rizqingmy",
    "url": "https://github.com/rizqingmy/rizqingmy",
    "text": "🌸 Rizqing Official Profile - Crafted with love by Keqing (っ´ω`c)♡",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "rizqing-kernel-lemonadep-bpf",
-   "url": "https://github.com/rizqingmy/rizqing-kernel-lemonadep-bpf",
-   "text": "OnePlus 9 Pro (lemonadep) SM8350 Kernel builder with 5.10 BPF backport & SukiSU/KSU",
    "fork": false,
    "stars": 0,
    "language": null,
