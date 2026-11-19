@@ -8,6 +8,7 @@
   "iconFill": true,
   "order": [
     "hero",
+    "socials",
     "about",
     "stack",
     "projects",
@@ -15,9 +16,7 @@
     "streak",
     "buttons"
   ],
-  "hidden": [
-    "socials"
-  ],
+  "hidden": [],
   "hero": {
     "greeting": "Hi, I'm",
     "name": "Rizqing <3",
@@ -126,15 +125,11 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/metawka"
+        "url": "https://t.me/rizqingplayground"
       },
       {
         "icon": "brand:tiktok",
-        "url": "https://www.tiktok.com/@metawka_"
-      },
-      {
-        "icon": "brand:steam",
-        "url": "https://steamcommunity.com/id/metawq/"
+        "url": "https://www.tiktok.com/@rizqing.my"
       }
     ],
     "variant": "chip",
