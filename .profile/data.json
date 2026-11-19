@@ -1,0 +1,197 @@
+{
+ "key": "4bd8923",
+ "stars": 1,
+ "contributions": 69,
+ "repos": 8,
+ "followers": 2,
+ "languages": [
+  [
+   "Python",
+   199518
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 33,
+    "day": 19,
+    "today": true
+   },
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 3
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "coloros_port",
+   "url": "https://github.com/rizqingmy/coloros_port",
+   "text": "OnePlus 8/8Pro/8T/9/9Pro/9R Ace3V ColorOS/OxgenOS 14-17 porting project",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "rizqingmy",
+   "url": "https://github.com/rizqingmy/rizqingmy",
+   "text": "🌸 Rizqing Official Profile - Crafted with love by Keqing (っ´ω`c)♡",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "rizqing-kernel-lemonadep-bpf",
+   "url": "https://github.com/rizqingmy/rizqing-kernel-lemonadep-bpf",
+   "text": "OnePlus 9 Pro (lemonadep) SM8350 Kernel builder with 5.10 BPF backport & SukiSU/KSU",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "coloros_port-",
+   "url": "https://github.com/rizqingmy/coloros_port-",
+   "text": "OxygenOS/ColorOS 14-17 and RealmeUI porting project, with OnePlus 9 Pro patches",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "magisk-module-oplus-genshin-keqing",
+   "url": "https://github.com/rizqingmy/magisk-module-oplus-genshin-keqing",
+   "text": "from 一加 Ace 3 原神刻晴定制机 to enable the keqing theme on oneplus oppo devices with root privilege",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "android_kernel_oppo_sm8350",
+   "url": "https://github.com/rizqingmy/android_kernel_oppo_sm8350",
+   "text": "OnePlus lemonade kernel, optionally with KernelSU Next",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "spoti.pw",
+   "url": "https://github.com/rizqingmy/spoti.pw",
+   "text": "Liquid Glass UI for the Spotify iOS app, no jailbreak",
+   "fork": true,
+   "stars": 0,
+   "language": "Objective-C",
+   "topics": []
+  },
+  {
+   "name": "Action_OnePlus_MKSU_SUSFS",
+   "url": "https://github.com/rizqingmy/Action_OnePlus_MKSU_SUSFS",
+   "text": "使用Github Action自动编译一加SukiSU内核",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
