@@ -11,12 +11,12 @@
     "socials",
     "about",
     "stats",
+    "streak",
     "buttons"
   ],
   "hidden": [
     "stack",
-    "projects",
-    "streak"
+    "projects"
   ],
   "hero": {
     "greeting": "Hey, I'm",
