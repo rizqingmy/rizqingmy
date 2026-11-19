@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "login": "rizqingmy",
+  "seed": "#A259FF",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Rizqing <3",
+    "subtitle": "Android Kernel & ColorOS Enthusiast ⚡\nCrafting SM8350 kernels, BPF backports & custom ROM ports.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "brand:linux",
+        "label": "Linux Kernel"
+      },
+      {
+        "icon": "brand:android",
+        "label": "Android / ColorOS"
+      },
+      {
+        "icon": "brand:c",
+        "label": "C / eBPF"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "brand:android",
+        "text": "Deep into OnePlus 9 Pro (lemonadep) kernel tuning & ColorOS 17 porting."
+      },
+      {
+        "icon": "brand:githubactions",
+        "text": "Automating cloud kernel builds with SukiSU Nova & SUSFS."
+      },
+      {
+        "icon": "heart",
+        "text": "Always guarded and accompanied by Keqing (っ´ω`c)♡"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech Stack",
+    "groups": [
+      {
+        "label": "Kernel & System",
+        "items": [
+          "brand:linux",
+          "brand:android",
+          "brand:c",
+          "brand:cplusplus"
+        ]
+      },
+      {
+        "label": "Tools & Workflow",
+        "items": [
+          "brand:git",
+          "brand:github",
+          "brand:githubactions",
+          "brand:bash"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "items": [
+      {
+        "repo": "rizqingmy/rizqing-kernel-lemonadep-bpf",
+        "desc": "OnePlus 9 Pro SM8350 Kernel with 5.10 BPF & SukiSU Nova / SUSFS",
+        "icon": "brand:linux"
+      },
+      {
+        "repo": "rizqingmy/coloros_port",
+        "desc": "OnePlus 8/9 Series ColorOS/OxygenOS Porting Project",
+        "icon": "brand:android"
+      }
+    ]
+  },
+  "stats": {
+    "title": "GitHub Activity"
+  },
+  "streak": {
+    "title": "Streak"
+  },
+  "buttons": {
+    "items": [
+      {
+        "label": "Kernel Builder",
+        "url": "https://github.com/rizqingmy/rizqing-kernel-lemonadep-bpf",
+        "icon": "brand:github"
+      },
+      {
+        "label": "ColorOS Port",
+        "url": "https://github.com/rizqingmy/coloros_port",
+        "icon": "brand:android"
+      }
+    ]
+  }
+}
