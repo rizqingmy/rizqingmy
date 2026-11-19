@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "rizqingmy",
-  "seed": "#8A56AC",
+  "seed": "#9B51E0",
   "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
@@ -10,32 +10,31 @@
     "hero",
     "socials",
     "about",
-    "stats",
-    "buttons"
-  ],
-  "hidden": [
     "stack",
     "projects",
-    "streak"
+    "stats",
+    "streak",
+    "buttons"
   ],
+  "hidden": [],
   "hero": {
-    "greeting": "Hey, I'm",
-    "name": "Rizqing",
-    "subtitle": "Complete newbie with zero coding experience.\nEverything here is mostly built & guided with AI agents!",
+    "greeting": "Hi, I'm",
+    "name": "Rizqing <3",
+    "subtitle": "Android Kernel & ColorOS Enthusiast ⚡\nCrafting SM8350 kernels, BPF backports & custom ROM ports.",
     "typing": true,
-    "avatarShape": "circle",
+    "avatarShape": "cookie12",
     "chips": [
       {
-        "icon": "school",
-        "label": "Student"
+        "icon": "brand:linux",
+        "label": "Linux Kernel"
       },
       {
-        "icon": "smart_toy",
-        "label": "AI Guided"
+        "icon": "brand:android",
+        "label": "ColorOS"
       },
       {
-        "icon": "sentiment_satisfied",
-        "label": "Total Newbie"
+        "icon": "brand:c",
+        "label": "C / eBPF"
       }
     ]
   },
@@ -43,16 +42,16 @@
     "title": "About me",
     "items": [
       {
-        "icon": "help",
-        "label": "No coding background — just curious and learning along the way."
+        "icon": "smartphone",
+        "label": "OnePlus 9 Pro (lemonadep) kernel tuning & ColorOS 17 porting."
       },
       {
-        "icon": "smart_toy",
-        "label": "Most repos and scripts are made with the help of AI agents."
+        "icon": "terminal",
+        "label": "Automating cloud kernel builds with SukiSU Nova & SUSFS."
       },
       {
         "icon": "favorite",
-        "label": "Faithfully guarded by Keqing (っ´ω`c)♡"
+        "label": "Guarded with eternal love by Keqing (っ´ω`c)♡"
       }
     ]
   },
@@ -140,10 +139,16 @@
   "buttons": {
     "items": [
       {
-        "icon": "folder",
-        "label": "My Repositories",
-        "url": "https://github.com/rizqingmy?tab=repositories",
+        "icon": "brand:github",
+        "label": "Kernel Builder",
+        "url": "https://github.com/rizqingmy/rizqing-kernel-lemonadep-bpf",
         "style": "filled"
+      },
+      {
+        "icon": "folder",
+        "label": "All Repositories",
+        "url": "https://github.com/rizqingmy?tab=repositories",
+        "style": "tonal"
       }
     ]
   }
