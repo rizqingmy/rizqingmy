@@ -1,5 +1,5 @@
 {
- "key": "b762d365",
+ "key": "80105f26",
  "stars": 1,
  "contributions": 45,
  "repos": 7,
@@ -94,9 +94,13 @@
    {
     "c": 0,
     "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
     "today": true
    },
-   null,
    null,
    null,
    null,
