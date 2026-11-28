@@ -1,5 +1,5 @@
 {
- "key": "da190269",
+ "key": "a2c68e2a",
  "stars": 1,
  "contributions": 45,
  "repos": 7,
@@ -114,9 +114,13 @@
    {
     "c": 0,
     "day": 27,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 28,
+    "today": true
+   }
   ]
  ],
  "streak": {
